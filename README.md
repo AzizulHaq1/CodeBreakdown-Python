@@ -1,6 +1,7 @@
 ## This is a complete CodeBreakdown with Python project
 
-#Description 
+##Description: 
+
 A repository featuring various Python examples with clear explanations and structured documentation.
 
 ## Why it's great: 
